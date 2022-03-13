@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
@@ -20,9 +12,17 @@
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
+      "price": "25.95",
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://s2.glbimg.com/lel8yd6yTt-Ad8SogCMbOItCeW0=/e.glbimg.com/og/ed/f/original/2016/03/07/5679555326_9aba2492fa_o.jpg",
+      "name": "Sobremesa gostosa",
+      "price": "26.56",
+      "description": "Bolinho delicinha",
+      "available": true,
+      "id": 4
     }
   ]
 }
